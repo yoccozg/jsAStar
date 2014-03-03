@@ -1,0 +1,13 @@
+table{
+	border-collapse:collapse;
+}
+td{
+	border:1px solid black;
+	font-size:0.46em;
+	width:15px;
+	height:7px;
+}
+td:hover{
+	background-color:green;
+	color:red;
+}
