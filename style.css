@@ -11,3 +11,7 @@ td:hover{
 	background-color:green;
 	color:red;
 }
+a{
+	color: blue;
+	text-decoration: underline;
+}
