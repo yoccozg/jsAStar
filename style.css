@@ -14,4 +14,5 @@ td:hover{
 a{
 	color: blue;
 	text-decoration: underline;
+	padding: 20px;
 }
